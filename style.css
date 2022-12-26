@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.path_display-style {
+  z-index: 0;
+  width: 100%;
+  position: relative;
+  font-size: 32px;
+}
+
+.center {
+  text-align: center;
+  padding-top: 20%;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.button {
+  background-color: blueviolet;
+  font-size: 30px;
+  font-family: 'Ironmonger', Bold;
+}
+
+.mainText {
+  font-size: 50px;
+  font-family: 'Ironmonger', Bold;
+}
